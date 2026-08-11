@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     DOCKER_IMAGE  = "fathimazahra7907/fastapi-app"
-    GIT_REPO_NAME = "python-fastapi-app"
+    GIT_REPO_NAME = "fastapi-app"
     GIT_USER_NAME = "fathimazahra9562"
   }
 
