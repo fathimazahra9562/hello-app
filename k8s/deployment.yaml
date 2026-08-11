@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: fast-container
-        image: fathimazahra7907/fastapi-app:5
+        image: fathimazahra7907/fastapi-app:6
         imagePullPolicy: Always
         ports:
         - containerPort: 8000
