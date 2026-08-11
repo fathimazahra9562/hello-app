@@ -16,7 +16,7 @@ spec:
         app: fastapi-app
     spec:
       containers:
-      - name: fastapi-container
+      - name: fast-container
         image: fathimazahra7907/fastapi-app:5
         imagePullPolicy: Always
         ports:
